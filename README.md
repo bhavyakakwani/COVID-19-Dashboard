@@ -1,6 +1,7 @@
 # COVID-19 Dashboard
 
 Project by: **Bhavya Kakwani**
+[Click here](https://bhavya-covid-19-dashboard.herokuapp.com/) to view the dashboard
 
 ***
 
