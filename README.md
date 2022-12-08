@@ -3,7 +3,7 @@
 Project by: **Bhavya Kakwani**
 
 
-[Click here](https://bhavya-covid-19-dashboard.herokuapp.com/) to view the dashboard
+[Click here](https://bhavyakakwani-covid-19-dashboard-dashboard-2jg9u3.streamlit.app/) to view the dashboard
 
 ***
 
